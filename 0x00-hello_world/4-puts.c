@@ -1,6 +1,12 @@
 #include <stdio.h>
 
-int main (){
-	//puts(Programming_is_like_building_a_multilingual_puzzle)
-	return 0;
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
+int main (void)
+	{
+		puts("/Programming_is_like_building_a_multilingal_puzzle");
+		return 0;
 }
